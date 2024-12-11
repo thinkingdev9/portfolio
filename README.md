@@ -2,11 +2,6 @@
 
 <div align="center">
 <br />
-    <a href="https://github.com/nikhilmaguwala/nikhil-maguwala-space-portfolio" target="_blank">
-      <img src="https://raw.githubusercontent.com/nikhilmaguwala/nikhil-maguwala-space-portfolio/main/public/space_photo.png?token=GHSAT0AAAAAACMXOZWRAW6E3TZEYCAKJ5HGZNG5MCA" alt="Project Banner">
-    </a>
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
