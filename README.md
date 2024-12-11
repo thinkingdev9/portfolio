@@ -1,4 +1,4 @@
-# Nikhil Maguwala - Space Themed Portfolio Website
+# thinkingdev9 - Space Themed Portfolio Website
 
 <div align="center">
 <br />

@@ -12,12 +12,12 @@ interface Props {
 
 const ProjectCard = ({ src, title, description, link }: Props) => {
     return (
-        <div className="relative rounded-lg shadow-lg border border-[#2A0E61]">
+        <div className="relative rounded-lg shadow-lg border border-[#2A0E61] cursor-pointer">
             <Image
                 src={src}
                 alt={title}
-                width={1000}
-                height={1000}
+                width={500}
+                height={500}
                 className="w-full object-contain"
                 onClick={() => window.open(link)}
             />
